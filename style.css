@@ -1,0 +1,15 @@
+.holaMundo {
+    color: red;
+    font-size: medium;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    justify-content: flex-start;
+}
+
+.chaoTodos {
+    color: chocolate;
+    justify-items: flex-end;
+}

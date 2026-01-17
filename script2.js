@@ -1,1 +1,0 @@
-console.log("Esto es el Script Numero 2");
